@@ -5,7 +5,7 @@ Give it a list of accounts to copy from, it will scan a post that you want from 
 
 Steps
 - 
-1) Enter your instagram login in the designated fields (pen1st line and second line).
+1) Enter your instagram login in the designated fields (1st line and second line).
 2) Make a list of accounts you want to copy from.
 3) Type what type of media you want (post, reel, album).
 4) Videos and photos should automatically open, manually check album photos/videos.
@@ -14,4 +14,4 @@ Steps
 
 
 This program is entirely terminal based.
-First three (3) lines of code are the ones that you want to touch, and arguably the most important lines of information.
+First five (5) lines of code are the ones that you want to touch, and arguably the most important lines of information.
